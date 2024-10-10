@@ -1,0 +1,7 @@
+# ignore folders
+.ipynb_checkpoints/
+__pycache__/
+images for products without image/
+
+# ignore files
+images for products without image.rar
